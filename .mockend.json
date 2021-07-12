@@ -1,0 +1,7 @@
+{
+        "region": "Golfito",
+        "indexMin": 0,
+        "indexMax": 5,
+        "years": [2015,2016,2017,2018,2019,2020],
+        "index":[1, 3, 5, 2, 5, 4]
+    }
