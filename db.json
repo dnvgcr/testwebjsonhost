@@ -1,18 +1,7 @@
-  
 {
-  "Post": {
-    "title": {
-      "string": {}
-    },
-    "views": {
-      "int": {
-        "min": 0,
-        "max": 99
-      }
-    },
-    "published": {
-      "boolean": {}
-    }
-  }
+  "Post": "Golfito ",
+  "min": 0,
+  "max":5,
+  "min1": [2015,2016,2017,2018,2019,2020]
 }
 
